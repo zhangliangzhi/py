@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+zaip/
+test/
+
 # Distribution / packaging
 .Python
 env/
